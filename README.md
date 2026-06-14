@@ -105,7 +105,7 @@ LLM_API_KEY=your-api-key         # API 密钥
 LLM_BASE_URL=https://dashscope.aliyuncs.com/compatible-mode/v1  # API 地址
 
 # 搜索服务配置
-SEARCH_API=tavily                # 搜索后端：tavily/duckduckgo
+SEARCH_API=tavily                # 搜索后端：tavily
 TAVILY_API_KEY=your-tavily-key   # Tavily API 密钥
 ```
 
