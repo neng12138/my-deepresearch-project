@@ -77,6 +77,12 @@ helloagents-deepresearch/
 3. **内容总结** - 对搜索结果进行智能总结提取关键信息
 4. **报告生成** - 整合所有任务结果，生成结构化研究报告
 
+### 运行展示
+
+<img src="./picture/01.png" />
+<img src="./picture/02.png" />
+<img src="./picture/03.png" />
+
 ## 使用指南
 
 ### 环境要求
