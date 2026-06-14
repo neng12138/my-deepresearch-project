@@ -49,7 +49,7 @@ helloagents-deepresearch/
 │   │   ├── utils.py           # 工具函数
 │   │   └── services/          # 业务服务层
 │   │       ├── planner.py     # 任务规划服务
-│   │       ├── search.py      # 搜索服务（Tavily/DuckDuckGo）
+│   │       ├── search.py      # 搜索服务
 │   │       ├── summarizer.py  # 内容总结服务
 │   │       ├── reporter.py    # 报告生成服务
 │   │       ├── notes.py       # 笔记工具服务
