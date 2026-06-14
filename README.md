@@ -72,6 +72,8 @@ helloagents-deepresearch/
 
 ### 核心流程
 
+<img src="./picture/deepresearch.png" />
+
 1. **任务规划** - 用户输入研究主题，LLM 自动生成 TODO 任务清单
 2. **并行搜索** - 多个任务并行执行，调用搜索 API 获取信息
 3. **内容总结** - 对搜索结果进行智能总结提取关键信息
